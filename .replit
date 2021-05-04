@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ -o source ./HelloWorld/Source.cpp; ./source"
